@@ -34,3 +34,13 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Emacs
+*~
+\#*\#
+
+# OS X
+.DS_Store
+
+# Sphinx
+_build/
