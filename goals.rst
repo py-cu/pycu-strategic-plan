@@ -24,6 +24,9 @@ Short Term Objectives
   * main talk
   * bird of a feather
   * coding dojo
+  * TIL
+  * How I Work
+  * Obscure Python thing of the day
   * range of accessibility
   
     * beginner
