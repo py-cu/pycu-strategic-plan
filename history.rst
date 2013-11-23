@@ -2,6 +2,8 @@
  History
 =========
 
+.. contents:: 
+
 Founding
 ========
 
