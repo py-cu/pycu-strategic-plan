@@ -4,80 +4,68 @@
 
 .. contents::
 
-Shortest Term Objectives
-========================
-* Speakers for every meeting
-
-
 Short Term Objectives
 =====================
 
-.. todo::
+Membership meetings
+-------------------
 
-   List goals for growth or expansion in the next year
-   
-* sustained group projects, with something for any level of expertise
-* create wiki/something central for people to contribute thoughts on what they'd like to learn about
-* Consistent and comprehensive structure for meetings
+We want to build a consistent and compehensive structure for meetings.
 
-  * lightning talks
-  * main talk
-  * bird of a feather
-  * coding dojo
-  * TIL
-  * How I Work
-  * Obscure Python thing of the day
-  * range of accessibility
-  
-    * beginner
-    * intermediate
-    * expert
-    
-* increased membership, in terms of numbers and diversity
-* increase outreach to unique cultural demographics
+**Potential components:**
 
-  * adolescents
-  * old people
-  
-* make sure there’s a pool of leaders/planners/etc
-* tutorials/workshops
+* lightning talks
+* main talk
+* birds of a feather
+* coding dojo
 
-  * short/bootcampy/weekend
-  * multiple sessions
- 
-Metrics
--------
-* membership numbers/diversity
-* x activities for y population per z time period
+Infrastructure
+--------------
 
-
-
+* Events calendar
+* Py-CU volunteer openings
+* Job board
+* Intro class materials
 
 Long Term Objectives
 ====================
 
-.. todo::
+Growth
+------
 
-   Far-future objectives for Py-CU
-   
-* short term goals feed into long term goals
+* Increase in membership
+* More attendees to Py-CU events
+* Activity at hack nights
+* Hosting of a Python conference
+* Booth presence at events (Maker Faire, etc.)
 
-* Host a PyCon
+Impact
+------
 
-  * big one
-  * specific domains, e.g. data
-  
-* presence at Makerfaire   
+* Traning new coders
+* Engaging a diverse audience
+* Group coding projects for all skill levels
 
-* attend conferences
-* present/poster at conferences
+Organizational Health
+---------------------
 
+* Strong core of leadership
+* Clear communication of long-term goals
+* Continuous recruitment of interested individuals
+
+Metrics
+-------
+
+* Number of members
+* Diversity of members/attendees
+* Total number of events
+* Diversity of events
+* Number of new events
 
 Future Programs
 ===============
 
-.. todo::
-
-   List of potential new programs
-
-
+* K-12 coding camp
+* Seniors and teens camp
+* Mentorship program
+* Speaker directory
