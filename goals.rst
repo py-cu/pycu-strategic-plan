@@ -4,6 +4,11 @@
 
 .. contents::
 
+Shortest Term Objectives
+========================
+* Speakers for every meeting
+
+
 Short Term Objectives
 =====================
 
