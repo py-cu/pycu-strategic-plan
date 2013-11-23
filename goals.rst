@@ -18,6 +18,21 @@ We want to build a consistent and compehensive structure for meetings.
 * main talk
 * birds of a feather
 * coding dojo
+* TIL
+* How I Work
+* Obscure Python thing of the day
+* tutorials/workshops
+
+  * short/bootcampy/weekend
+  * spanning multiple weeks
+
+* range of accessibility
+  
+  * beginner
+  * intermediate
+  * expert
+  
+* create wiki/something central for people to contribute thoughts on what they'd like to learn about
 
 Infrastructure
 --------------
