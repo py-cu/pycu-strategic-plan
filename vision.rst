@@ -2,6 +2,8 @@
  Vision
 ========
 
+.. contents::
+
 Mission Statement
 =================
 
