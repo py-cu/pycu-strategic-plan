@@ -2,12 +2,37 @@
  Goals
 =======
 
+.. contents::
+
 Short Term Objectives
 =====================
 
 .. todo::
 
    List goals for growth or expansion in the next year
+   
+* sustained group projects, with something for any level of expertise
+* short term goals feed into long term goals
+* Consistent and compehensive structure for meetings
+  * lightning talks
+  * main talk
+  * bird of a feather
+  * coding dojo
+  * range of accessibility
+    * beginner
+    * intermediate
+    * expert
+* increased membership, in terms of numbers and diversity
+* increase outreach to unique cultural demographics
+  * adolescents
+  * old people
+* make sure there’s a pool of leaders/planners/etc
+ 
+Metrics
+-------
+* membership numbers/diversity
+* x activities for y population per z time period
+
 
 Long Term Objectives
 ====================
@@ -16,9 +41,17 @@ Long Term Objectives
 
    Far-future objectives for Py-CU
 
+* Host a PyCon
+  * big one
+  * specific domains, e.g. data
+* presence at Makerfaire   
+
+
 Future Programs
 ===============
 
 .. todo::
 
    List of potential new programs
+
+
