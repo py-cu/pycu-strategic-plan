@@ -2,6 +2,7 @@
  SWOT Analysis
 ===============
 
+.. contents:: 
 
 Strengths
 =========
