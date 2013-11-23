@@ -14,18 +14,23 @@ Short Term Objectives
 * sustained group projects, with something for any level of expertise
 * short term goals feed into long term goals
 * Consistent and compehensive structure for meetings
+
   * lightning talks
   * main talk
   * bird of a feather
   * coding dojo
   * range of accessibility
+  
     * beginner
     * intermediate
     * expert
+    
 * increased membership, in terms of numbers and diversity
 * increase outreach to unique cultural demographics
+
   * adolescents
   * old people
+  
 * make sure there’s a pool of leaders/planners/etc
  
 Metrics
@@ -42,8 +47,10 @@ Long Term Objectives
    Far-future objectives for Py-CU
 
 * Host a PyCon
+
   * big one
   * specific domains, e.g. data
+  
 * presence at Makerfaire   
 
 
