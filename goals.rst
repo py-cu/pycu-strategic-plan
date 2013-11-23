@@ -18,7 +18,8 @@ Short Term Objectives
    
 * sustained group projects, with something for any level of expertise
 * create wiki/something central for people to contribute thoughts on what they'd like to learn about
-* Consistent and compehensive structure for meetings
+* Consistent and comprehensive structure for meetings
+
   * lightning talks
   * main talk
   * bird of a feather
