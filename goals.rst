@@ -19,7 +19,6 @@ Short Term Objectives
 * sustained group projects, with something for any level of expertise
 * create wiki/something central for people to contribute thoughts on what they'd like to learn about
 * Consistent and compehensive structure for meetings
-
   * lightning talks
   * main talk
   * bird of a feather
@@ -66,7 +65,8 @@ Long Term Objectives
   
 * presence at Makerfaire   
 
-* attend conferences/present at conferences
+* attend conferences
+* present/poster at conferences
 
 
 Future Programs
