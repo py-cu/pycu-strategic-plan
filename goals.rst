@@ -17,7 +17,7 @@ Short Term Objectives
    List goals for growth or expansion in the next year
    
 * sustained group projects, with something for any level of expertise
-* short term goals feed into long term goals
+* create wiki/something central for people to contribute thoughts on what they'd like to learn about
 * Consistent and compehensive structure for meetings
 
   * lightning talks
@@ -48,12 +48,16 @@ Metrics
 * x activities for y population per z time period
 
 
+
+
 Long Term Objectives
 ====================
 
 .. todo::
 
    Far-future objectives for Py-CU
+   
+* short term goals feed into long term goals
 
 * Host a PyCon
 
