@@ -37,6 +37,10 @@ Short Term Objectives
   * old people
   
 * make sure there’s a pool of leaders/planners/etc
+* tutorials/workshops
+
+  * short/bootcampy/weekend
+  * multiple sessions
  
 Metrics
 -------
@@ -57,6 +61,8 @@ Long Term Objectives
   * specific domains, e.g. data
   
 * presence at Makerfaire   
+
+* attend conferences/present at conferences
 
 
 Future Programs
