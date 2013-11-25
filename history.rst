@@ -8,6 +8,7 @@ Founding
 ========
 
 Py-CU was founded in February 2013 by a small group of individuals who sought a community of programmers and technology enthusiasts locally. Since then, Py-CU has quickly grown past the expectations set for it in February. It acts as a subgroup currently of Makerspace Urbana and heads events and activities in both Makerspace's and Py-CU's name. 
+
 .. todo::
 
    A short statement about how and why the group was founded.
